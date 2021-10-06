@@ -11,13 +11,16 @@ tags: [Terraform, Azure, Github, GitOpt, Cloud]
 # HashiCorp Terraform Cloud on Azure Workshop
 
 - HashiCorp Japan 
-  伊藤仁智(Masa Ito)
-  @unagi_ga_suki
-  <https://github.com/masatomo-ito2>
+  - 伊藤仁智(Masa Ito)
+  - @unagi_ga_suki
+  - <https://github.com/masatomo-ito2>
 
-- Instrqutを使ったWorkshop <https://play.instruqt.com/signup>
 
-- [Teraform Cloud](https://app.terraform.io/signup/account)
+## 事前準備
+
+- [Instrqut Account](https://play.instruqt.com/signup)
+
+- [Teraform Cloud Account](https://app.terraform.io/signup/account)
 
 ## ミッション
 
@@ -46,12 +49,12 @@ tags: [Terraform, Azure, Github, GitOpt, Cloud]
 * Provision(Operations) -> オンデマンド
 
 ### クラウドツールのサイロ化
-![img](images/terraform-2021-10-06-2.png)
+![img](./images/terraform-2021-10-06-2.png)
 
 
 ### Multi-cloudでのチャレンジ
 
-![img](images/terraform-2021-10-06-1.png)
+![img](./images/terraform-2021-10-06-1.png)
 
 ワークフローの統一
 
@@ -76,17 +79,21 @@ Practitioner -> Infrastructure as Code -> Plan -> Apply -> Provider
 * f5
 * DATADOG
 
-> Stateの共有に工夫がいる
-> コード共有どうする？
-> バージョン管理どうする?
+### 問題
+* Stateの共有に工夫がいる
+* コード共有どうする？
+* バージョン管理どうする?
 
+
+**そこで👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇**
 
 ### Teraform Cloud
 
 GitOpsとWorkspaceとの連携
 
+
+|Stack|
 |--|
-|==|
 |State-File|
 |Variables|
 |RBAC|
@@ -101,6 +108,8 @@ GitOpsとWorkspaceとの連携
 * CLI
 * API
 * Web-UI
+
+-----------
 
 ## Handson
 
@@ -137,6 +146,7 @@ location = "Japan West"
 
 ## Lab2
 
+--------------
 ## Discussion
 
 * 全体的にFirefoxで動作しない問題
@@ -144,7 +154,7 @@ location = "Japan West"
 * Cloud-Initとの棲み分け
 * Vagrantの今後の位置付け
 
-
+-----------
 
 ## Handson 抜粋
 

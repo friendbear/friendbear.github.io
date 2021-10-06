@@ -49,12 +49,12 @@ tags: [Terraform, Azure, Github, GitOpt, Cloud]
 * Provision(Operations) -> オンデマンド
 
 ### クラウドツールのサイロ化
-![img](./images/terraform-2021-10-06-2.png)
+![img](terraform-2021-10-06-2.png)
 
 
 ### Multi-cloudでのチャレンジ
 
-![img](./images/terraform-2021-10-06-1.png)
+![img](terraform-2021-10-06-1.png)
 
 ワークフローの統一
 

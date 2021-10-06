@@ -49,12 +49,12 @@ tags: [Terraform, Azure, Github, GitOpt, Cloud]
 * Provision(Operations) -> オンデマンド
 
 ### クラウドツールのサイロ化
-![img](terraform-2021-10-06-2.png)
+![img](/assets/images/terraform-2021-10-06-2.png)
 
 
 ### Multi-cloudでのチャレンジ
 
-![img](terraform-2021-10-06-1.png)
+![img](/assets/images/terraform-2021-10-06-1.png)
 
 ワークフローの統一
 
@@ -85,9 +85,9 @@ Practitioner -> Infrastructure as Code -> Plan -> Apply -> Provider
 * バージョン管理どうする?
 
 
-**そこで👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇**
+👇そこで👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
 
-### Teraform Cloud
+## Teraform Cloud
 
 GitOpsとWorkspaceとの連携
 

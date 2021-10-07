@@ -1,0 +1,423 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.81
+# Copyright (C) 2006  Free Software Foundation, Inc.
+# This is free software; see the source for copying conditions.
+# There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.
+
+# This program built for i386-apple-darwin11.3.0
+ 
+
+# Make data base, printed on Thu Oct  7 00:53:43 2021
+
+# Variables
+
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# automatic
+?F = $(notdir $?)
+ 
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# environment
+GOENV_ROOT = /Users/k22/.goenv
+# environment
+LC_CTYPE = UTF-8
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+FFF_TRASH = /Users/k22/.local/share/fff/trash
+# environment
+CPPFLAGS = -I/usr/local/opt/openssl@3/include
+# environment
+NNN_BMS = o:~/Develop;O:~/Posts;7:~/Develop/Scala
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# automatic
+@F = $(notdir $@)
+# makefile
+CURDIR := /Users/k22/Develop/my.github.io
+# makefile
+SHELL = /bin/sh
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+_ = /usr/bin/make
+# environment
+FFF_FAV1 = /Users/k22/Develop
+# environment
+FFF_LS_COLORS = 1
+# environment
+FFF_FAV7 = 
+# environment
+FFF_COL3 = 6
+# environment
+ENHANCD_HYPHEN_ARG = -
+# environment
+ENHANCD_DIR = /Users/k22/.enhancd
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+GOENV_SHELL = bash
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+__CFBundleIdentifier = com.googlecode.iterm2
+# environment
+WASMER_DIR = /Users/k22/.wasmer
+# environment
+ENHANCD_HOME_ARG = 
+# environment
+VSCODE_IPC_HOOK_EXTHOST = /var/folders/cw/mfjkzkvx0vl4qt1c_k0skyth0000gn/T/vscode-ipc-4076aae9-09f9-44d0-89ff-1bd34c926817.sock
+# environment
+VSCODE_CWD = /Users/k22/Develop/my.github.io
+# environment
+PATH = /usr/local/opt/openssl/bin:/Library/Java/JavaVirtualMachines/graalvm-ce-java11-21.1.0/Contents/Home/bin:/Library/Java/JavaVirtualMachines/graalvm-ce-java11-21.1.0/Contents/Home/bin:/usr/local/opt/sqlite/bin:/usr/local/sbin:/Users/k22/.cargo/bin:/usr/local/opt/sqlite/bin:/Users/k22/.rbenv/shims:/Users/k22/.goenv/shims:/Users/k22/.goenv/bin:/Users/k22/.nodebrew/current/bin:/Users/k22/Bin:/Users/k22/.sbtenv/shims:/Users/k22/.sbtenv/bin:/Users/k22/.scalaenv/shims:/Users/k22/.scalaenv/bin:/usr/local/opt/gettext/bin:/Users/k22/.local/bin:/Users/k22/.wasmer/bin:/Users/k22/.pyenv/shims:/Users/k22/.pyenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/Library/TeX/texbin:/usr/local/MacGPG2/bin:/Applications/Little Snitch.app/Contents/Components:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin:/Library/Apple/usr/bin:/Users/k22/.wasmer/globals/wapm_packages/.bin:/Users/k22/.SpaceVim/bin
+# environment
+FFF_FAV2 = /Users/k22/WorkDocs
+# environment
+LSCOLORS = GxFxCxDxBxegedabagaced
+# environment
+FFF_FAV4 = /tmp
+# environment
+ENHANCD_USE_FUZZY_MATCH = 1
+# environment
+ENHANCD_DISABLE_HYPHEN = 0
+# environment
+FFF_FAV6 = 
+# environment
+LaunchInstanceID = 21883CB9-F979-4EE2-B166-15DB7E869EC2
+# environment
+VSCODE_LOG_STACK = false
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+PYENV_ROOT = /Users/k22/.pyenv
+# environment
+LDFLAGS = -L/usr/local/opt/openssl@3/lib
+# default
+.FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
+# environment
+ENHANCD_DISABLE_HOME = 0
+# environment
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.SAk9D5b18x/Listeners
+# automatic
+%F = $(notdir $%)
+# environment
+ENHANCD_FILTER = fzy:fzf-tmux:fzf:peco:percol:gof:pick:icepick:sentaku:selecta
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+FFF_W3M_YOFFSET = 0
+# environment
+PWD = /Users/k22/Develop/my.github.io
+# environment
+FFF_FAV8 = 
+# environment
+NNN_COPIER = /Users/k22/Bin/copier.sh
+# environment
+PKG_CONFIG_PATH = /usr/local/opt/openssl@3/lib/pkgconfig
+# environment
+HISTTIMEFORMAT = %F %T 
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
+# environment
+HOME = /Users/k22
+# environment
+ENHANCD_COMMAND = cd
+# makefile (from `Makefile', line 1)
+MAKEFILE_LIST :=  Makefile
+# default
+ 
+MAKEFILEPATH := /Applications/Xcode.app/Contents/Developer/Makefiles
+# environment
+VSCODE_CLI = 1
+# environment
+VSCODE_CODE_CACHE_PATH = /Users/k22/Library/Application Support/Code/CachedData/7f6ab5485bbc008386c4386d08766667e155244e
+# environment
+LOGNAME = k22
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# environment
+NNN_SHOW_HIDDEN = 1
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+GRAALVM_HOME = /Library/Java/JavaVirtualMachines/graalvm-ce-java11-21.1.0
+# environment
+MAKELEVEL := 0
+# environment
+FFF_FILE_FORMAT = %f
+# environment
+XPC_FLAGS = 0x0
+# environment
+COLORTERM = truecolor
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+LC_TERMINAL = iTerm2
+# environment
+SHLVL = 3
+# environment
+WASMER_CACHE_DIR = /Users/k22/.wasmer/cache
+# environment
+STARSHIP_SESSION_KEY = 3215722705515925
+# environment
+JAVA_HOME = /Library/Java/JavaVirtualMachines/graalvm-ce-java11-21.1.0/Contents/Home
+# default
+MAKE_VERSION := 3.81
+# environment
+USER = k22
+# environment
+FFF_FAV3 = /Users/k22/
+# makefile
+.DEFAULT_GOAL := all
+# default
+MAKECMDGOALS := all
+# environment
+TERM_SESSION_ID = w0t0p0:C945983D-E354-4B79-8614-32CF77834641
+# environment
+FFF_FAV5 = /
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+FFF_MARK_FORMAT =  %f*
+# environment
+SCALAENV_SHELL = bash
+# environment
+FFF_W3M_XOFFSET = 0
+# environment
+SBTENV_SHELL = bash
+# environment
+ENHANCD_AWK = awk
+# environment
+TERM_PROGRAM = iTerm.app
+# default
+.VARIABLES := 
+# environment
+TMPDIR = /var/folders/cw/mfjkzkvx0vl4qt1c_k0skyth0000gn/T/
+# automatic
+*F = $(notdir $*)
+# environment
+VSCODE_IPC_HOOK = /Users/k22/Library/Application Support/Code/1.60.2-main.sock
+# makefile
+MAKEFLAGS = Rrqp
+# environment
+MFLAGS = -Rrqp
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+TERM_PROGRAM_VERSION = 3.4.10
+# environment
+FFF_COL4 = 1
+# environment
+XPC_SERVICE_NAME = 0
+# environment
+FFF_COL1 = 4
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# automatic
++F = $(notdir $+)
+# environment
+ITERM_SESSION_ID = w0t0p0:C945983D-E354-4B79-8614-32CF77834641
+# environment
+ENHANCD_DOT_ARG = ..
+# environment
+COLORFGBG = 15;0
+# default
+MAKE_COMMAND := /Applications/Xcode.app/Contents/Developer/usr/bin/make
+# environment
+__CF_USER_TEXT_ENCODING = 0x1F5:0x0:0x0
+# environment
+COMMAND_MODE = unix2003
+# default
+MAKEFILES := 
+# environment
+NNN_USE_EDITOR = 1
+# environment
+RBENV_SHELL = bash
+# automatic
+<F = $(notdir $<)
+# environment
+ITERM_PROFILE = Default
+# environment
+ENHANCD_DOT_SHOW_FULLPATH = 0
+# environment
+FFF_COL2 = 7
+# environment
+EDITOR = nvim
+# environment
+LC_ALL = C
+# environment
+LC_TERMINAL_VERSION = 3.4.10
+# environment
+SECURITYSESSIONID = 186ab
+# automatic
+^F = $(notdir $^)
+# environment
+ENHANCD_HYPHEN_NUM = 10
+# default
+ 
+SUFFIXES := 
+# environment
+FFF_HIDDEN = 0
+# environment
+FFF_CD_FILE = /Users/k22/.fff_d
+# environment
+NNN_NOTE = /Users/k22/.mynotes
+# default
+.INCLUDE_DIRS = /usr/local/include
+# environment
+FFF_FAV9 = 
+# environment
+ENHANCD_DISABLE_DOT = 0
+# environment
+GPG_TTY = /dev/ttys000
+# environment
+CLICOLOR = 1
+# environment
+LANG = C
+# environment
+TERM = xterm-256color
+# environment
+VSCODE_PID = 1780
+# environment
+FFF_CD_ON_EXIT = 1
+# environment
+NNN_CONTEXT_COLORS = 6534
+# environment
+ENHANCD_ROOT = /Users/k22/GitHub/enhancd
+# environment
+FFF_TRASH_CMD = mv
+# environment
+STARSHIP_SHELL = bash
+# variable set hash-table stats:
+# Load=140/1024=14%, Rehash=0, Collisions=21/166=13%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 16777220, inode 1070008): 45 files, no impossibilities.
+
+# 45 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+change:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 14):
+	open $(bundle show minima)
+	
+
+all: build serve
+#  Command-line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/2=0%
+
+# Not a target:
+.SUFFIXES:
+ 
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2019-04-30 16:56:00
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+update:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 17):
+	bundle update jekyll
+	
+
+build:
+#  Implicit rule search has not been done.
+#  Implicit/static pattern stem: `'
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := build
+# automatic
+# % := 
+# automatic
+# * := 
+# automatic
+# + := 
+# automatic
+# | := 
+# automatic
+# < := 
+# automatic
+# ^ := 
+# automatic
+# ? := 
+# variable set hash-table stats:
+# Load=8/32=25%, Rehash=0, Collisions=1/10=10%
+#  commands to execute (from `Makefile', line 5):
+	JEKYLL_ENV=production bundle exec jekyll build --incremental
+	
+
+themes:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 11):
+	bundle show
+	
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+serve:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 8):
+	JEKYLL_ENV=production bundle exec jekyll serve --incremental
+	
+
+# files hash-table stats:
+# Load=9/1024=1%, Rehash=0, Collisions=0/25=0%
+# VPATH Search Paths
+
+# No `vpath' search paths.
+
+# No general (`VPATH' variable) search path.
+
+# # of strings in strcache: 1
+# # of strcache buffers: 1
+# strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
+# strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
+
+# Finished Make data base on Thu Oct  7 00:53:43 2021
+
+ 

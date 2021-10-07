@@ -8,13 +8,6 @@ layout: default
 
 ## Contents
 
-* [About Me](/about.html)
-
-* [Blog](/blog)
-
-
-
-  * [Link to another page](./another-page.html).
 ### This Page is generate by [Jekyllrb](https://jekyllrb.com)
 
 * This site choice's  themes is here [jekyllrb theme](https://github.com/mattvh/jekyllthemes/)

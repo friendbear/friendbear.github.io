@@ -1,6 +1,6 @@
 ## about.me
 
-<https://about.me/friendbear>
+* <https://about.me/friendbear>
 
 
 

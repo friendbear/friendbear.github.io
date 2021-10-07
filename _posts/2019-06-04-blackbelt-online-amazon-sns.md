@@ -2,6 +2,9 @@
 layout: post
 title:  Black Belt Online Seminar Amazon Simple Notification Service (SNS)
 author: friendbear
+category: [SNS]
+tags: [aws, sns]
+---
 ---
 
 ## SNS

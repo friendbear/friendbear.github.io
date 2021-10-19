@@ -1,7 +1,29 @@
 - name: Home
   link: /
-- name: About
-  link: /about.html
+
 - name: Blog
   link: /blog.html
 
+- name: Join
+  link: /join.html
+
+- name: Programming
+  link: /lang.html
+
+- name: links
+  link: /links.html
+
+- name: tools
+  link: /tools.html
+
+- name: todo
+  link: /todo.html
+
+- name: Link to another page
+  link: /another-page.html
+
+- name: markdown reference
+  link: /markdown_reference.html
+
+- name: About
+  link: /about.html

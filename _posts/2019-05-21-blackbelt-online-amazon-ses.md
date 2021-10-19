@@ -1,4 +1,11 @@
 
+---
+layout: post
+title: AWS Blackbelt online AWS SMS
+author: friendbear
+category: [SMS]
+tags: [aws, sms]
+---
 
 ## UseCase
 * 受信Eメールの受信

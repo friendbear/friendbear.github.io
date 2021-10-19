@@ -3,7 +3,7 @@ layout: post
 auther: friendbear
 categoly: [Startup]
 title: Startup day follow up session machienelearning
-tags: []
+tags: [aws, startup]
 ---
 
 ## Upgrade UX with Data / 機械学習を用いたサービス改善

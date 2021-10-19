@@ -8,13 +8,6 @@ layout: default
 
 ## Contents
 
-* [About Me](/about.html)
-
-* [Blog](/blog)
-
-
-
-  * [Link to another page](./another-page.html).
 ### This Page is generate by [Jekyllrb](https://jekyllrb.com)
 
 * This site choice's  themes is here [jekyllrb theme](https://github.com/mattvh/jekyllthemes/)
@@ -28,18 +21,27 @@ layout: default
 ## Lang
 * [programing-language](/lang.html)
 
+## Playground
+* [awesome](https://code.labstack.com/)
+* [Go](https://play.golang.org/)
+* [Rust](https://play.rust-lang.org/)
+* [Kotlin](https://play.kotlinlang.org/)
+* [Scala](https://scalameta.org/)
+
 ## Roadmap
 
-[BackEnd Enginner 2019](https://github.com/kamranahmedse/developer-roadmap/blob/master/images/backend.png)
+[BackEnd Enginner](https://github.com/kamranahmedse/developer-roadmap/blob/master/images/backend.png)
 
 
-[DevOps Enginner 2019](https://github.com/kamranahmedse/developer-roadmap/blob/master/images/devops.png)
+[DevOps Enginner](https://github.com/kamranahmedse/developer-roadmap/blob/master/images/devops.png)
 
 ## GitHub
+* [Github Sponsor](https://github.com/sponsors/)
 * [Github.blog](https://github.blog/)
 * [DEVHUB](https://devhubapp.com/)
 * [zenhub](https://app.zenhub.com)
 * [smee](https://smee.io)
+
 
 ## AWS
 * [AWS trainig and certification](https://www.aws.training)
@@ -77,11 +79,10 @@ layout: default
 
 ### Scala Community
 * [Scala Users](https://users.scala-lang.org/top)
+* [my accountl](https://users.scala-lang.org/u/friendbear)
 
-
-<div>
-<a target="_blank" href="https://users.scala-lang.org/u/friendbear">Link to My ScalaUsers</a>
-</div>
+### Rust Community
+* [my accountl](https://users.rust-lang.org/u/friendbear)
 
 ### Links
 * [Qiita](https://qiita.com/tags/scala)
@@ -94,20 +95,12 @@ layout: default
 - <https://jupyterlab.readthedocs.io/>
 
 ## Apache 
-### Apache Arrow
-* Apache Arrow
-  A cross-language development platform for in-memory data
-  <https://arrow.apache.org/>
 * Apache Spark
   <https://spark.apache.org/>
-
-### Apache 
----
-* [Markdown Reference](./markdown_reference.html)
-
 ## etc.
 
 * <https://www.wikihow.com>
+* [Markdown Reference](./markdown_reference.html)
 
 <details>
 <summary>-</summary>
@@ -115,9 +108,7 @@ layout: default
 * [hackr.io](https://hackr.io/friendbear)
 * [tools](/tools.html)
 * [Join](/join.html)
-* [Son](https://kumasora.github.io/ "kumasora is my son")
+* [Son](https://toosu.github.io/ "toosu is my son")
 </pre>
 <details>
-
-## Writing Format is Markdown
 

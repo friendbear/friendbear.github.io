@@ -50,3 +50,8 @@ layout: default
 ## 2021-07-04: dev.to
 * <https://dev.to>
 
+## 2022-02-27: https://developer.spotify.com/
+* <https://developer.spotify.com/>
+
+## 2022-03-01: https://friendbear.booth.pm/
+* <https://friendbear.booth.pm/>

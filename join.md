@@ -55,3 +55,6 @@ layout: default
 
 ## 2022-03-01: https://friendbear.booth.pm/
 * <https://friendbear.booth.pm/>
+
+## 2022-03-02: https://www.doorkeeper.jp/
+* <https://www.doorkeeper.jp/users/friendbear>

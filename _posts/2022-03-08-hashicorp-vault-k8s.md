@@ -1,76 +1,66 @@
 ---
-
 layout: post
 author: T Kumagai
-Title: Vaultに格納したシークレットをKubernetesから活用する方法
-categories: [HashiCorp]
-
-tags: [Vault, Kubernetes]
+Title: GitLabアジャイルプロジェクト管理
+categories: [GitLab]
+Π
+tags: [Epic, Sprint, KPT, Issue, ProjectManagement]
 
 ---
-# Vaultに格納したシークレットをKubernetesから活用する方法
 
-- HashiCorp Japan
+# GitLabアジャイルプロジェクト管理
 
-  - time 30min
+- GitLab
 
+  - time 3h
+
+---
 ## 概要
 
-Vault CSIドライバーを活用して、コンテナ内のアプリケーションにシークレットを渡す方法を解説します。
+様々な企業がデジタルトランスフォーメーションを推進していくために、または技術革新や市場の変化に追従するために、開発手法として従来のウォーターフォール開発ではなくアジャイル開発を採用し始めています。
 
-### キー製品
+一方で、アジャイル開発でどのようにプロジェクトを管理すれば良いのか戸惑う現場も多いのではないでしょうか。
 
-* Vault
+本ワークショップでは、GitLab でプロジェクト管理をしたことがない方向けに、GitLab でのアジャイルプロジェクト管理の基礎を一緒に学習します。さらにハンズオンセッションでは実際に GitLab で教材として用意されたプロジェクトを管理する体験を得ることで、受講後に現場でGitLabを用いてスクラムなどのアジャイル開発手法を実施できるようになることを目指します。
+
+--
+
+### GitLabのアジャイルプランニングの構成例
+
+* epic(エピック)
+  * ロードマップ
+    * グループは以下のおプロジェクトに属するIssue
+  
+
+---
+### HandsOn
+
+* [hands-on issue link](https://workshop.gitlabtraining.cloud/agile-project-management-workshop/2022-03-17)
+
+* エピックを作成 マイルストーン１、２
+  * プロジェクトにIssueeを作成する。
+  * 作成したIssueにエピックを設定する。
+  
+  エピックはスプリント2wで設定する。
+
+### スプリント０では何をするか
+
+スプリント１へスピーディに移行するため
+
+* チーム面
+* プロダクト面
+---
+### デイリースクラム
+
+昨日やったこと、今日やること、スプリントのゴールに対する課題を共有
+
+
+
+### KPTボードで振り返り
+
+
+* GitLabのベストプラクティスのGitフローは GitLabフローで検索！
 
 ---
 
-## 概要
-
-![1](/assets/images/vault-2022-03-08-1.png)
-![1](/assets/images/vault-2022-03-08-3.png)
-![1](/assets/images/vault-2022-03-08-4.png)
-
-### Kubernetes Auth Method
-
-![1](/assets/images/vault-2022-03-08-2.png)
-![1](/assets/images/vault-2022-03-08-5.png)
-![1](/assets/images/vault-2022-03-08-6.png)
-
-
-![1](/assets/images/vault-2022-03-08-7.png)
-![1](/assets/images/vault-2022-03-08-8.png)
-![1](/assets/images/vault-2022-03-08-9.png)
-
-### Vault  Agent Injector
-
-![1](/assets/images/vault-2022-03-08-10.png)
-![1](/assets/images/vault-2022-03-08-11.png)
-![1](/assets/images/vault-2022-03-08-12.png)
-![1](/assets/images/vault-2022-03-08-13.png)
-![1](/assets/images/vault-2022-03-08-14.png)
-![1](/assets/images/vault-2022-03-08-15.png)
-
-
-
----
-
-### Vault CSI Provider
-
-![1](/assets/images/vault-2022-03-08-16.png)
-
-![1](/assets/images/vault-2022-03-08-17.png)
-
-![1](/assets/images/vault-2022-03-08-18.png)
-
-![1](/assets/images/vault-2022-03-08-19.png)
-![1](/assets/images/vault-2022-03-08-20.png)
-
-![1](/assets/images/vault-2022-03-08-20.png)
-
----
-
-## Sidecar or CSI?
-
-![1](/assets/images/vault-2022-03-08-21.png)
-
-
+fin.

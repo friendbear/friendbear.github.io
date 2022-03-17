@@ -5,7 +5,6 @@ Title: GitLabアジャイルプロジェクト管理
 categories: [GitLab]
 Π
 tags: [Epic, Sprint, KPT, Issue, ProjectManagement]
-
 ---
 
 # GitLabアジャイルプロジェクト管理
@@ -60,6 +59,11 @@ tags: [Epic, Sprint, KPT, Issue, ProjectManagement]
 
 
 * GitLabのベストプラクティスのGitフローは GitLabフローで検索！
+
+
+### 使用したテンプレートプロジェエクト
+
+<https://workshop.gitlabtraining.cloud/sample-project-templates/agile-project-management-workshop>
 
 ---
 

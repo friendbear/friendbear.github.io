@@ -1,0 +1,7 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/k22/Develop/my.github.io'
+JEKYLL_ENV=production bundle exec jekyll build --incremental
+ 
+JEKYLL_ENV=production bundle exec jekyll serve --incremental
+make: Leaving directory `/Users/k22/Develop/my.github.io'
+ 
